@@ -60,7 +60,7 @@ The available screenshots show the login and signup pages.
 
 A small demonstration of the landing page is available.
 
-
+https://github.com/user-attachments/assets/404a25ab-38de-42f5-bf7d-99816b580f97
 
 ## Project Status
 
